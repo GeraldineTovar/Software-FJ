@@ -1,0 +1,16 @@
+2026-11-22 18:30:32,602 - INFO - Cliente registrado: 9876
+2026-11-22 18:31:38,820 - INFO - Reserva creada: 1
+2026-11-22 18:33:56,673 - INFO - Consulta de estadísticas
+2026-11-22 18:34:22,009 - INFO - Reserva cancelada: 1
+2026-11-22 18:34:56,640 - ERROR - La reserva no está activa
+2026-11-22 18:35:07,240 - INFO - Consulta de estadísticas
+2026-11-22 18:35:17,535 - INFO - Sistema cerrado
+2026-11-22 18:47:58,917 - INFO - Cliente registrado: 9876
+2026-11-22 18:49:45,130 - ERROR - El cliente ya está registrado
+2026-11-22 18:52:41,192 - ERROR - El cliente no existe
+2026-11-22 18:53:37,503 - ERROR - Reserva no encontrada
+2026-11-22 18:54:43,854 - ERROR - Reserva no encontrada
+2026-11-22 18:56:12,394 - ERROR - Servicio no válido
+2026-11-22 18:57:07,653 - ERROR - El nombre no puede estar vacío
+2026-11-22 18:58:02,444 - ERROR - Opción no válida
+2026-11-22 19:50:12,594 - ERROR - invalid literal for int() with base 10: 'abc'
